@@ -1,0 +1,15 @@
+p {
+    text-align: justify;
+}
+
+.nav {
+    background-color: rgb(240,240,240);
+    padding: 10px;
+}
+
+.nav-chapter {
+}
+
+.nav-section {
+    margin-left: 20px;
+}
